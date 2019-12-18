@@ -1,0 +1,2 @@
+init | config | clone | add | rm | commit | remote | push | pull | 
+status | diff | reset | log | branch | checkout | merge
